@@ -112,26 +112,31 @@ const services = [{
     },
 ];
 
-const dataportfolio = [{
-        img: study,
-        description: "StudyBuddy is a study chat room where you can interact with your peers and learn.",
-        link: "https://github.com/arslaanKhurshid/study_buddy",
+const dataportfolio = [
+    {
+        img: gym,
+        description: "Arnold gym webpage.",
+        link: "https://arnoldgym.vercel.app/",
     },
+
     {
         img: crowd,
         description: "Crowdfunding made secure with Secure-Flow.",
         link: "https://secureflow.vercel.app/",
     },
+    
+    {
+        img: study,
+        description: "StudyBuddy is a study chat room where you can interact with your peers and learn.",
+        link: "https://github.com/arslaanKhurshid/study_buddy",
+    },
+    
     {
         img: stopwatch,
         description: "A simple react stop watch.",
         link: "https://github.com/arslaanKhurshid/Stop-Watch",
     },
-    {
-        img: gym,
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "https://arnoldgym.vercel.app/",
-    },
+    
     {
         img: todo,
         description: "A react To-Do list front end app.",
