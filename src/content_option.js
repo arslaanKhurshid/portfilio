@@ -1,4 +1,4 @@
-import profileImage from './images/me4.jpg';
+import profileImage from './images/me3.jpg';
 import todo from './images/todo.png';
 import secureflow from './images/secureflow.png';
 import stopwatch from './images/stopwatch.png';
